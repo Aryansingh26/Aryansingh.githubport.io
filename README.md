@@ -1,3 +1,4 @@
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Aryansingh26/Aryansingh26)
 # Aryan Singh Portfolio
 
 This is a personal portfolio website for Aryan Singh, built with React and Tailwind CSS.
