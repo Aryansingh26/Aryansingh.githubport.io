@@ -1,5 +1,6 @@
-[build.environment]
-  NODE_OPTIONS = "--max_old_space_size=4096"
+[build]
+  command = "NODE_OPTIONS='--max_old_space_size=4096' npm run build"
+  publish = "dist"
 
 [build.environment]
-  NODE_VERSION = "22.18.0"
+  NODE_OPTIONS = "--max_old_space_size=4096"
